@@ -575,6 +575,8 @@ html[xmlns] .flexslider .slides {
 .site-title img {
 	margin: 0 auto;
 	display: block;
+        max-width: 100%;
+        background: url(https://www.senecacreekgreenwayrace.com/wp-content/uploads/2015/01/masthead-1440.jpg);
 }
 .site-title a {
 	color: #fff;
